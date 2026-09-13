@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&family=Nunito+Sans:ital,opsz@0,6..12;1,6..12&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.p-carousel {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Ensure the default navigation buttons are hidden */
+.p-carousel-prev,
+.p-carousel-next {
+  display: none !important;
+}
