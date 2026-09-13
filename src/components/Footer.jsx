@@ -25,7 +25,7 @@ const Footer = () => {
             </p>
           </div>
           <div>
-            <a href="https://www.instagram.com/thesrinnovations?igsh=azMzamx0b3MybmN6&utm_source=qr">
+            <a href="https://www.instagram.com/_cloudrika?stkn=NTFyamh2dml3a2x1&utm_source=qr">
               <FaInstagram className="md:text-[#ffff]  pt-3 ml-36 md:ml-0 mt-5 md:mt-0 text-[10vw] md:text-[2.5vw] " />
             </a>
           </div>
