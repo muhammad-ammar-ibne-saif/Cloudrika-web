@@ -18,7 +18,7 @@ const SEO = () => {
             Expert SEO
           </h1>
           <p className="font-body md:pr-48">
-            Build a strong digital foundation with SR Innovations expert SEO
+            Build a strong digital foundation with Cloudrika Technologies expert SEO
             services. We optimize your website to enhance visibility, drive
             organic traffic, and improve search engine rankings. Let us help you
             attract more customers and achieve sustainable growth through

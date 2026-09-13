@@ -32,7 +32,7 @@ export default function ServiceCard() {
               color="text.secondary"
               className="pr-3 pt-3"
             >
-              At SR Innovations, we craft custom web solutions that are both
+              At Cloudrika Technologies, we craft custom web solutions that are both
               functional and visually stunning.
             </Typography>
           </CardContent>

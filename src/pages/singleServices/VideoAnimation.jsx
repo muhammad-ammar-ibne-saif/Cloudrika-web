@@ -82,7 +82,7 @@ const VideoAnimation = () => {
             Maximum Efficiency
           </h1>
           <p className="font-body md:px-64 px-4 text-left">
-            Choose SR Innovations for video animation services that bring your
+            Choose Cloudrika Technologies for video animation services that bring your
             ideas to life with creativity and precision. Our team crafts
             visually stunning animations that enhance engagement and clearly
             communicate your message. Let us help you stand out and connect with

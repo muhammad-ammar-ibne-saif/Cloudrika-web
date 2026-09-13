@@ -106,7 +106,7 @@ const Graphic = () => {
             Expert Graphic Designs
           </h1>
           <p className="font-body md:pr-24">
-            Build a solid digital foundation with SR Innovations expert graphic
+            Build a solid digital foundation with Cloudrika Technologies expert graphic
             design services. We craft visually striking designs that communicate
             your brand&apos;s message clearly and effectively. Let us bring your
             ideas to life with creativity that leaves a lasting impression.

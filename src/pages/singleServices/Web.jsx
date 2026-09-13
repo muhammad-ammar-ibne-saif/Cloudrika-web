@@ -65,7 +65,7 @@ const Web = () => {
             Expert Web Development
           </h1>
           <p className="md:pr-[60vw]">
-            SR Innovations helps you build a strong digital foundation with
+            Cloudrika Technologies helps you build a strong digital foundation with
             expert web development services. From responsive designs to powerful
             functionality, we create websites that drive business growth. Let us
             bring your vision to life with precision and expertise.
@@ -317,7 +317,7 @@ const Web = () => {
             Maximum Efficiency
           </h1>
           <p className="font-body md:px-64 px-4 text-left">
-            Choose SR Innovations for video animation services that bring your
+            Choose Cloudrika Technologies for video animation services that bring your
             ideas to life with creativity and precision. Our team crafts
             visually stunning animations that enhance engagement and clearly
             communicate your message. Let us help you stand out and connect with
@@ -331,7 +331,7 @@ const Web = () => {
               Feature Prioritization
             </h1>
             <p className="font-body text-[4vw] md:text-[1.3vw] py-4 md:py-2">
-              At SR Innovations, we ensure the website development process is
+              At Cloudrika Technologies, we ensure the website development process is
               perfectly aligned with your business goals, maximizing its
               potential for success.
             </p>

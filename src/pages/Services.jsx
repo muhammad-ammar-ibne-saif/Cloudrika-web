@@ -27,7 +27,7 @@ const Services = () => {
             for your Business Success
           </h1>
           <p className="font-body px-2 pt-2 md:px-80">
-            SR Innovations provides competent full IT services designed to drive
+            Cloudrika Technologies provides competent full IT services designed to drive
             your business success. From innovative solutions to reliable
             support, we ensure your operations run smoothly. Partner with us for
             a smarter, tech-driven future.
@@ -646,7 +646,7 @@ const Services = () => {
           </div>
           <div className="w-[100%] md:w-[50%] px-4 md:px-12 ">
             <p>
-              At SR Innovations, we offer a comprehensive range of professional
+              At Cloudrika Technologies, we offer a comprehensive range of professional
               IT services tailored to meet diverse business needs. From software
               development to IT support, our expertise ensures seamless and
               efficient solutions. Trust us to power your success..

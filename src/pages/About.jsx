@@ -135,7 +135,7 @@ const About = () => {
           </div>
           <div className="w-[100%] md:w-[50%] px-4 md:px-12  pt-4 md:pt-0">
             <p>
-              At SR Innovations, we offer a comprehensive range of professional
+              At Cloudrika Technologies, we offer a comprehensive range of professional
               IT services tailored to meet diverse business needs. From software
               development to IT support, our expertise ensures seamless and
               efficient solutions. Trust us to power your success..

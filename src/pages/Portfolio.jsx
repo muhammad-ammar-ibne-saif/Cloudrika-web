@@ -27,7 +27,7 @@ const Portfolio = () => {
             Stories
           </h1>
           <p className="font-body md:pr-24">
-            At SR Innovations, we take pride in delivering exceptional results
+            At Cloudrika Technologies, we take pride in delivering exceptional results
             for our clients. From innovative solutions to impactful designs, our
             work speaks for itself. Explore our portfolio and see how we&apos;ve
             helped businesses achieve success through tailored digital
